@@ -1,2 +1,2 @@
-# Balwant
+# Analog_Gauge_Images_Reader
 hi this is fast...
